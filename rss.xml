@@ -1,0 +1,373 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" version="2.0">
+    <channel>
+        <title>CERT-FR</title>
+        <atom:link href="https://www.cert.ssi.gouv.fr/alerte/feed/" rel="self" type="application/rss+xml"/>
+        <link>https://www.cert.ssi.gouv.fr</link>
+        <description>Centre gouvernemental de veille, d'alerte et de réponse aux attaques informatiques</description>
+        <lastBuildDate>Thu, 04 May 2023 12:08:32 +0000</lastBuildDate>
+        <language>fr-FR</language>
+        <sy:updatePeriod>hourly</sy:updatePeriod>
+        <sy:updateFrequency>1</sy:updateFrequency>
+        <item>
+            <title>CERTFR-2023-ALE-002 : [MàJ] Vulnérabilité dans Microsoft Outlook (15 mars 2023)</title>
+            <link>https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-002/</link>
+            <pubDate>Wed, 15 Mar 2023 14:59:48 +0000</pubDate>
+            <guid isPermaLink="true">https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-002/</guid>
+            <description>
+                <![CDATA[<p><span style="color: #ff0000;"><strong>[mise à jour du 20 avril 2023] clarification de la recommandation pour le filtrage du flux SMB</strong></span></p><p><strong>[mise à jour du 29 mars 2023] complément d'information et recommandation<br /> </strong></p><p>En date du 14 mars 2023, <span …]]>
+</description>
+</item>
+<item>
+    <title>CERTFR-2023-ALE-003 : [MàJ] Compromission de l’application 3CX Desktop App (31 mars 2023)</title>
+    <link>https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-003/</link>
+    <pubDate>Fri, 31 Mar 2023 08:35:01 +0000</pubDate>
+    <guid isPermaLink="true">https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-003/</guid>
+    <description>
+        <![CDATA[<p>Le 30 mars 2023, l'éditeur a publié un communiqué concernant la compromission de leur application de bureau 3CX (<em>3CX Desktop App</em>). Cette application de conférence vocale et vidéo, dans certaines versions, est infectée par un cheval de Troie qui rend possible le déploiement d'une …]]>
+    </description>
+</item>
+<item>
+    <title>CERTFR-2023-ALE-001 : Vulnérabilité dans Fortinet FortiOS (14 mars 2023)</title>
+    <link>https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-001/</link>
+    <pubDate>Tue, 14 Mar 2023 16:01:19 +0000</pubDate>
+    <guid isPermaLink="true">https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-001/</guid>
+    <description>
+        <![CDATA[<p>Le 07 mars 2023, Fortinet a publié un avis de sécurité détaillant l’existence d’une vulnérabilité de type traversée de chemin (<em>path traversal</em>) permettant à un attaquant authentifié avec un compte à privilèges de lire et d'écrire des fichiers arbitrairement au travers de l'interface …]]>
+    </description>
+</item>
+<item>
+    <title>CERTFR-2022-ALE-012 : [MàJ] Vulnérabilité dans FortiOS SSL-VPN (13 décembre 2022)</title>
+    <link>https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-012/</link>
+    <pubDate>Tue, 13 Dec 2022 08:55:44 +0000</pubDate>
+    <guid isPermaLink="true">https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-012/</guid>
+    <description>
+        <![CDATA[<p>Le 12 décembre 2022, l'éditeur Fortinet a publié un avis de sécurité mentionnant une vulnérabilité critique dans son produit FortiOS SSL-VPN. Cette vulnérabilité de débordement de tas (<em>heap overflow</em>) permet à un attaquant distant non authentifié d'exécuter du code ou des commandes …]]>
+    </description>
+</item>
+<item>
+    <title>CERTFR-2022-ALE-014 : Multiples vulnérabilités dans AMI MegaRAC (16 décembre 2022)</title>
+    <link>https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-014/</link>
+    <pubDate>Fri, 16 Dec 2022 08:29:26 +0000</pubDate>
+    <guid isPermaLink="true">https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-014/</guid>
+    <description>
+        <![CDATA[<h2>Contexte</h2><p>Le 05 décembre 2022, trois vulnérabilités respectivement identifiées par les numéros CVE-2022-40259, CVE-2022-40242 et CVE-2022-2827 ont été signalées dans la solution d’administration à distance MegaRAC de l’éditeur AMI.</p><p>La solution MegaRAC s’appuie sur un BMC …]]>
+    </description>
+</item>
+<item>
+    <title>CERTFR-2022-ALE-011 : Vulnérabilité dans les produits Fortinet (14 octobre 2022)</title>
+    <link>https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-011/</link>
+    <pubDate>Fri, 14 Oct 2022 10:55:08 +0000</pubDate>
+    <guid isPermaLink="true">https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-011/</guid>
+    <description>
+        <![CDATA[<p>Le 07 octobre 2022, des informations ont circulé concernant l’existence d’une vulnérabilité critique dans les produits Fortinet. Le 11 octobre 2022, l’éditeur a publié un avis de sécurité détaillant l’existence d’une vulnérabilité permettant à un attaquant non authentifié de pouvoir réaliser …]]>
+    </description>
+</item>
+<item>
+    <title>CERTFR-2022-ALE-013 : [MàJ] Vulnérabilité dans Citrix ADC et Gateway (13 décembre 2022)</title>
+    <link>https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-013/</link>
+    <pubDate>Tue, 13 Dec 2022 13:16:02 +0000</pubDate>
+    <guid isPermaLink="true">https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-013/</guid>
+    <description>
+        <![CDATA[<p>Le 13 décembre 2022, Citrix a indiqué avoir connaissance d'une vulnérabilité de type jour-zéro (<em>zero-day</em>) affectant les produits Citrix ADC et Citrix Gateway. Cette vulnérabilité, immatriculée CVE-2022-27518, permet à un attaquant à distance et non authentifié d'exécuter du code …]]>
+    </description>
+</item>
+<item>
+    <title>CERTFR-2023-ALE-015 : [MàJ] Campagne d’exploitation d’une vulnérabilité affectant VMware ESXi (03 février 2023)</title>
+    <link>https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-015/</link>
+    <pubDate>Fri, 03 Feb 2023 17:19:38 +0000</pubDate>
+    <guid isPermaLink="true">https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-015/</guid>
+    <description>
+        <![CDATA[<p><span style="color: #ff0000;">[Mise à jour du 10 février 2023]</span><br /> Une nouvelle vague d’attaque démarrée le 8 février change la méthode de chiffrement permettant de chiffrer un plus grand volume de données dans les fichiers de grande taille rendant la restauration des données plus …]]>
+    </description>
+</item>
+<item>
+    <title>CERTFR-2022-ALE-008 : [MaJ] Multiples vulnérabilités dans Microsoft Exchange (30 septembre 2022)</title>
+    <link>https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-008/</link>
+    <pubDate>Fri, 30 Sep 2022 08:36:09 +0000</pubDate>
+    <guid isPermaLink="true">https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-008/</guid>
+    <description>
+        <![CDATA[<p><span style="color: #ff0000;"><strong>[Mise à jour du 09 novembre 2022]</strong></span>L'éditeur a publié un correctif (cf. section solution).</p><p>En date du 29 septembre 2022, Microsoft a indiqué l'existence de deux vulnérabilités, de type zéro-jour, au sein de Windows Exchange 2013, …]]>
+</description>
+</item>
+<item>
+    <title>CERTFR-2022-ALE-007 : Multiples vulnérabilités dans Microsoft Windows (16 septembre 2022)</title>
+    <link>https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-007/</link>
+    <pubDate>Fri, 16 Sep 2022 09:20:10 +0000</pubDate>
+    <guid isPermaLink="true">https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-007/</guid>
+    <description>
+        <![CDATA[<p>[MàJ du 31 octobre 2022]</p><p>Une preuve de concept est publiquement disponible.</p><p>[Publication initiale]</p><p>Dans le cadre de son <em>Patch Tuesday</em>, en date du 13 septembre 2022, Microsoft a indiqué l'existence de multiples vulnérabilités au sein de plusieurs versions de …]]>
+    </description>
+</item>
+<item>
+    <title>CERTFR-2022-ALE-009 : [MaJ] Vulnérabilité dans Zimbra Collaboration (07 octobre 2022)</title>
+    <link>https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-009/</link>
+    <pubDate>Fri, 07 Oct 2022 08:57:55 +0000</pubDate>
+    <guid isPermaLink="true">https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-009/</guid>
+    <description>
+        <![CDATA[<p><strong>[MaJ 12 octobre 2022] </strong>Un correctif est désormais disponible (cf. section Documentation).</p><p><strong>[Publication initiale]</strong></p><p>Le 15 septembre 2022, l'éditeur Zimbra a publié un avis de sécurité mentionnant une vulnérabilité dans l'implémentation de <em>cpio …]]>
+</description>
+</item>
+<item>
+    <title>CERTFR-2022-ALE-010 : Multiples vulnérabilités dans GLPI (07 octobre 2022)</title>
+    <link>https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-010/</link>
+    <pubDate>Fri, 07 Oct 2022 13:05:51 +0000</pubDate>
+    <guid isPermaLink="true">https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-010/</guid>
+    <description>
+        <![CDATA[<p>Le 14 septembre 2022, l'éditeur de GLPI (Gestionnaire Libre de Parc Informatique) a déclaré plusieurs vulnérabilités sur le produit, dont deux critiques. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de …]]>
+    </description>
+</item>
+<item>
+    <title>CERTFR-2022-ALE-002 : Vulnérabilité dans VMware Spring Cloud Gateway (03 mars 2022)</title>
+    <link>https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-002/</link>
+    <pubDate>Thu, 03 Mar 2022 13:34:10 +0000</pubDate>
+    <guid isPermaLink="true">https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-002/</guid>
+    <description>
+        <![CDATA[<p>Une vulnérabilité a été découverte dans VMware Spring Cloud Gateway. Elle permet à un attaquant de forger une requête malveillante spécialement conçue afin de provoquer une exécution de code arbitraire à distance.</p><p>Les applications utilisant Spring Cloud Gateway sont vulnérables à une …]]>
+    </description>
+</item>
+<item>
+    <title>CERTFR-2022-ALE-006 : [MàJ] Vulnérabilité dans Atlassian Confluence (03 juin 2022)</title>
+    <link>https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-006/</link>
+    <pubDate>Fri, 03 Jun 2022 08:04:26 +0000</pubDate>
+    <guid isPermaLink="true">https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-006/</guid>
+    <description>
+        <![CDATA[<p><strong>[Mise à jour du 03 juin 2022 à 19h52]</strong> Atlassian a publié des correctifs.</p><p>Une vulnérabilité a été découverte dans Atlassian Confluence. Elle permet à un attaquant non authentifié de provoquer une exécution de code arbitraire à distance.</p><p>Cette vulnérabilité est …]]>
+</description>
+</item>
+<item>
+    <title>CERTFR-2022-ALE-005 : [MàJ] Vulnérabilité dans Microsoft Windows (31 mai 2022)</title>
+    <link>https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-005/</link>
+    <pubDate>Tue, 31 May 2022 11:12:01 +0000</pubDate>
+    <guid isPermaLink="true">https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-005/</guid>
+    <description>
+        <![CDATA[<p><strong>[Mise à jour du 15 juin 2022] Le mardi 14 juin 2022, l'éditeur a publié des mises à jour permettant la correction de cette vulnérabilité. </strong></p><p>Le 27 mai 2022, un chercheur a identifié un document Word piégé sur la plate-forme <em>Virus Total</em>. Lorsque ce document est …]]>
+</description>
+</item>
+<item>
+    <title>CERTFR-2022-ALE-004 : Vulnérabilité dans F5 BIG-IP (11 mai 2022)</title>
+    <link>https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-004/</link>
+    <pubDate>Wed, 11 May 2022 17:09:43 +0000</pubDate>
+    <guid isPermaLink="true">https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-004/</guid>
+    <description>
+        <![CDATA[<p>La vulnérabilité <a href="https://www.cve.org/CVERecord?id=2022-1388">CVE-2022-1388</a> affectant les équipements BIG-IP de F5 Networks a été annoncée le 4 mai 2022. Elle permet de contourner le mécanisme d’authentification et d’invoquer les fonctions d’interprétation de commandes systèmes …]]>
+    </description>
+</item>
+<item>
+    <title>CERTFR-2022-ALE-003 : [MàJ] Vulnérabilité dans l’implémentation du protocole RPC par Microsoft (13 avril 2022)</title>
+    <link>https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-003/</link>
+    <pubDate>Wed, 13 Apr 2022 13:45:34 +0000</pubDate>
+    <guid isPermaLink="true">https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-003/</guid>
+    <description>
+        <![CDATA[<p><strong><span style="color: #ff0000;">[mise à jour du 15 avril 2022]</span></strong></p><p>Une vulnérabilité a été découverte dans l'implémentation Microsoft du protocole <em>RPC</em> -<em>Remote Procedure Call</em> -  protocole permettant d'effectuer des appels de procédures sur des …]]>
+</description>
+</item>
+<item>
+    <title>CERTFR-2022-ALE-001 : [MaJ] Vulnérabilité dans Microsoft Windows (12 janvier 2022)</title>
+    <link>https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-001/</link>
+    <pubDate>Wed, 12 Jan 2022 20:40:05 +0000</pubDate>
+    <guid isPermaLink="true">https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-001/</guid>
+    <description>
+        <![CDATA[<p><strong>[Version du 18 janvier 2022</strong><strong>]</strong></p><p>Le 17 janvier 2022, l'éditeur<span class="mx_MTextBody mx_EventTile_content"><span class="mx_EventTile_body" dir="auto"> a publié une mise à jour exceptionnelle afin de corriger</span></span> plusieurs dysfonctionnements …]]>
+</description>
+</item>
+<item>
+    <title>CERTFR-2021-ALE-022 : [MaJ] Vulnérabilité dans Apache Log4j (10 décembre 2021)</title>
+    <link>https://www.cert.ssi.gouv.fr/alerte/CERTFR-2021-ALE-022/</link>
+    <pubDate>Fri, 10 Dec 2021 10:40:37 +0000</pubDate>
+    <guid isPermaLink="true">https://www.cert.ssi.gouv.fr/alerte/CERTFR-2021-ALE-022/</guid>
+    <description>
+        <![CDATA[<p>Une vulnérabilité a été découverte dans la bibliothèque de journalisation Apache log4j. Cette bibliothèque est très souvent utilisée dans les projets de développement d'application Java/J2EE ainsi que par les éditeurs de solutions logicielles sur étagère basées sur Java/J2EE.</p><p>Cette …]]>
+    </description>
+</item>
+<item>
+    <title>CERTFR-2021-ALE-019 : [MaJ] Vulnérabilité dans Microsoft Windows (08 septembre 2021)</title>
+    <link>https://www.cert.ssi.gouv.fr/alerte/CERTFR-2021-ALE-019/</link>
+    <pubDate>Wed, 08 Sep 2021 09:50:32 +0000</pubDate>
+    <guid isPermaLink="true">https://www.cert.ssi.gouv.fr/alerte/CERTFR-2021-ALE-019/</guid>
+    <description>
+        <![CDATA[<p><strong>[Version du 15 septembre 2021]</strong> Dans le cadre de son<em>Patch Tuesday</em>, en date du 14 septembre 2021, Microsoft a mis à disposition un correctif pour cette vulnérabilité. Le CERT-FR recommande fortement d'appliquer ce correctif et, le cas échéant, d'enlever les …]]>
+    </description>
+</item>
+<item>
+    <title>CERTFR-2021-ALE-021 : Vulnérabilité dans Microsoft Exchange (10 novembre 2021)</title>
+    <link>https://www.cert.ssi.gouv.fr/alerte/CERTFR-2021-ALE-021/</link>
+    <pubDate>Wed, 10 Nov 2021 13:15:46 +0000</pubDate>
+    <guid isPermaLink="true">https://www.cert.ssi.gouv.fr/alerte/CERTFR-2021-ALE-021/</guid>
+    <description>
+        <![CDATA[<p>Une vulnérabilité a été découverte dans Microsoft Exchange, initialement dans le cadre de la compétition de cybersécurité <em>Tianfu Cup</em> qui a eu lieu en juillet 2021. Elle permet à un attaquant ayant accès aux identifiants d'un utilisateur de provoquer une exécution de code arbitraire …]]>
+    </description>
+</item>
+<item>
+    <title>CERTFR-2021-ALE-017 : Multiples vulnérabilités dans Microsoft Exchange (27 août 2021)</title>
+    <link>https://www.cert.ssi.gouv.fr/alerte/CERTFR-2021-ALE-017/</link>
+    <pubDate>Fri, 27 Aug 2021 07:46:04 +0000</pubDate>
+    <guid isPermaLink="true">https://www.cert.ssi.gouv.fr/alerte/CERTFR-2021-ALE-017/</guid>
+    <description>
+        <![CDATA[<p>Dans son bulletin d'actualité CERTFR-2021-ACT-035 du 12 août 2021 <a href="http://suite à la publication d'une technique permettant de prendre le contrôle d'un serveur Microsoft Exchange">[1]</a>, le CERT-FR revenait sur la publication d'une technique permettant de prendre le contrôle d'un …]]>
+    </description>
+</item>
+<item>
+    <title>CERTFR-2021-ALE-014 : [MaJ] Multiples vulnérabilités dans Microsoft Windows (02 juillet 2021)</title>
+    <link>https://www.cert.ssi.gouv.fr/alerte/CERTFR-2021-ALE-014/</link>
+    <pubDate>Fri, 02 Jul 2021 09:28:23 +0000</pubDate>
+    <guid isPermaLink="true">https://www.cert.ssi.gouv.fr/alerte/CERTFR-2021-ALE-014/</guid>
+    <description>
+        <![CDATA[<p><strong>[version du 12 août 2021]</strong></p><p>Le 11 août 2021, Microsoft a publié un avis concernant la vulnérabilité CVE-2021-36958 affectant le spouleur d’impression (<i>print spooler</i>). Microsoft indique que cette vulnérabilité permet une exécution de code arbitraire à distance. Le …]]>
+</description>
+</item>
+<item>
+    <title>CERTFR-2021-ALE-018 : Vulnérabilité dans Atlassian Confluence Server et Data Center (06 septembre 2021)</title>
+    <link>https://www.cert.ssi.gouv.fr/alerte/CERTFR-2021-ALE-018/</link>
+    <pubDate>Mon, 06 Sep 2021 13:10:08 +0000</pubDate>
+    <guid isPermaLink="true">https://www.cert.ssi.gouv.fr/alerte/CERTFR-2021-ALE-018/</guid>
+    <description>
+        <![CDATA[<p>Le 25 août 2021, Atlassian a publié un avis de sécurité alertant de l'existence d'une vulnérabilité affectant la solution de travail collaboratif Confluence, référencée CVE-2021-26084.</p><p>L'éditeur, ainsi que plusieurs autres sources, indiquent que la vulnérabilité CVE-2021-26084, qui …]]>
+    </description>
+</item>
+<item>
+    <title>CERTFR-2021-ALE-020 : [Maj] Multiples vulnérabilités dans Microsoft Azure Open Management Infrastructure (17 septembre 2021)</title>
+    <link>https://www.cert.ssi.gouv.fr/alerte/CERTFR-2021-ALE-020/</link>
+    <pubDate>Fri, 17 Sep 2021 10:25:42 +0000</pubDate>
+    <guid isPermaLink="true">https://www.cert.ssi.gouv.fr/alerte/CERTFR-2021-ALE-020/</guid>
+    <description>
+        <![CDATA[<p><strong>[Version du 20 septembre 2021]</strong></p><p><span class="mx_MTextBody mx_EventTile_content"><span class="mx_EventTile_body" dir="auto">Le 18 septembre Microsoft a publié un article afin d'expliquer comment Azure Sentinel peut aider à la recherche d'une compromission notamment …]]>
+</description>
+</item>
+<item>
+    <title>CERTFR-2021-ALE-015 : Multiples vulnérabilités dans SolarWinds Serv-U (13 juillet 2021)</title>
+    <link>https://www.cert.ssi.gouv.fr/alerte/CERTFR-2021-ALE-015/</link>
+    <pubDate>Tue, 13 Jul 2021 16:04:53 +0000</pubDate>
+    <guid isPermaLink="true">https://www.cert.ssi.gouv.fr/alerte/CERTFR-2021-ALE-015/</guid>
+    <description>
+        <![CDATA[<p>Le 9 juillet 2021, SolarWinds a publié un correctif pour la vulnérabilité CVE-2021-35211 affectant les composants <em>Managed File Transfer</em> et<em>Secure FTP</em> des produits Serv-U avec une version antérieure à 15.2.3 HF2.</p><p>Cette vulnérabilité de type "jour zéro" (<em>zero …]]>
+</description>
+</item>
+<item>
+    <title>CERTFR-2021-ALE-011 : Vulnérabilité dans VMware vCenter Server (07 juin 2021)</title>
+    <link>https://www.cert.ssi.gouv.fr/alerte/CERTFR-2021-ALE-011/</link>
+    <pubDate>Mon, 07 Jun 2021 14:46:06 +0000</pubDate>
+    <guid isPermaLink="true">https://www.cert.ssi.gouv.fr/alerte/CERTFR-2021-ALE-011/</guid>
+    <description>
+        <![CDATA[<p>Le 25 mai 2021, VMware a publié un correctif pour la vulnérabilité CVE-2021-21985 affectant le greffon Virtual SAN Health Check qui est installé par défaut dans vCenter Server.</p><p>L'exploitation de cette vulnérabilité permet à un attaquant non authentifié d'exécuter du code arbitraire à …]]>
+    </description>
+</item>
+<item>
+    <title>CERTFR-2021-ALE-012 : Multiples vulnérabilités dans Microsoft Windows (09 juin 2021)</title>
+    <link>https://www.cert.ssi.gouv.fr/alerte/CERTFR-2021-ALE-012/</link>
+    <pubDate>Wed, 09 Jun 2021 13:23:21 +0000</pubDate>
+    <guid isPermaLink="true">https://www.cert.ssi.gouv.fr/alerte/CERTFR-2021-ALE-012/</guid>
+    <description>
+        <![CDATA[<p>A l'occasion de sa mise à jour mensuelle de juin 2021, Microsoft a publié des correctifs, entre autres, pour six vulnérabilités qui sont activement exploitées dans le cadre d'attaques ciblées.</p><p>Quatre de ces vulnérabilités (CVE-2021-31199, CVE-2021-31201, CVE-2021-31956 et …]]>
+    </description>
+</item>
+<item>
+    <title>CERTFR-2021-ALE-016 : Vulnérabilité dans SonicWall (15 juillet 2021)</title>
+    <link>https://www.cert.ssi.gouv.fr/alerte/CERTFR-2021-ALE-016/</link>
+    <pubDate>Thu, 15 Jul 2021 17:09:37 +0000</pubDate>
+    <guid isPermaLink="true">https://www.cert.ssi.gouv.fr/alerte/CERTFR-2021-ALE-016/</guid>
+    <description>
+        <![CDATA[<p>Une vulnérabilité de type injection SQL a été découverte dans SonicWall Secure Mobile Access (SMA) et Secure Remote Access (SRA). Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données et une atteinte à la confidentialité des données. L'éditeur a émis un bulletin …]]>
+    </description>
+</item>
+<item>
+    <title>CERTFR-2021-ALE-004 : [MàJ] Multiples vulnérabilités dans Microsoft Exchange Server (03 mars 2021)</title>
+    <link>https://www.cert.ssi.gouv.fr/alerte/CERTFR-2021-ALE-004/</link>
+    <pubDate>Wed, 03 Mar 2021 14:33:55 +0000</pubDate>
+    <guid isPermaLink="true">https://www.cert.ssi.gouv.fr/alerte/CERTFR-2021-ALE-004/</guid>
+    <description>
+        <![CDATA[<p><strong>[version du 16 mars 2021]</strong></p><p>le 15 mars 2021, Microsoft a publié un nouvel outil dont le but annoncé est d'aider leurs clients à se protéger de l'exploitation de la vulnérabilité CVE-2021-26855 affectant les serveurs de courrier Exchange en attendant l'application des …]]>
+</description>
+</item>
+<item>
+    <title>CERTFR-2021-ALE-013 : [MaJ] Vulnérabilité dans Microsoft Windows (30 juin 2021)</title>
+    <link>https://www.cert.ssi.gouv.fr/alerte/CERTFR-2021-ALE-013/</link>
+    <pubDate>Wed, 30 Jun 2021 13:29:13 +0000</pubDate>
+    <guid isPermaLink="true">https://www.cert.ssi.gouv.fr/alerte/CERTFR-2021-ALE-013/</guid>
+    <description>
+        <![CDATA[<p>&nbsp;</p><p><strong>[version mise à jour le 02 juillet 2021 : cette alerte est remplacée par l'alerte CERTFR-2021-ALE-014]<br /> </strong></p><p><strong>La vulnérabilité CVE-2021-1675 est correctement corrigée par le correctif publié par l'éditeur lors du Patch Tuesday de juin 2021. Les …]]>
+</description>
+</item>
+<item>
+    <title>CERTFR-2021-ALE-010 : Vulnérabilité dans Adobe Acrobat et Acrobat Reader (12 mai 2021)</title>
+    <link>https://www.cert.ssi.gouv.fr/alerte/CERTFR-2021-ALE-010/</link>
+    <pubDate>Wed, 12 May 2021 11:29:48 +0000</pubDate>
+    <guid isPermaLink="true">https://www.cert.ssi.gouv.fr/alerte/CERTFR-2021-ALE-010/</guid>
+    <description>
+        <![CDATA[<p>Une vulnérabilité a été découverte dans Adobe Acrobat et Acrobat Reader. Elle permet à un attaquant de provoquer une exécution de code arbitraire. L'éditeur indique que cette vulnérabilité aurait été exploitée dans des attaques ciblées visant des utilisateurs d'Acrobat Reader sur Windows.</p> ]]>
+    </description>
+</item>
+<item>
+    <title>CERTFR-2021-ALE-007 : [MàJ] Vulnérabilité dans Pulse Connect Secure (20 avril 2021)</title>
+    <link>https://www.cert.ssi.gouv.fr/alerte/CERTFR-2021-ALE-007/</link>
+    <pubDate>Tue, 20 Apr 2021 15:34:43 +0000</pubDate>
+    <guid isPermaLink="true">https://www.cert.ssi.gouv.fr/alerte/CERTFR-2021-ALE-007/</guid>
+    <description>
+        <![CDATA[<p><strong>[version du 3 mai 2021]</strong></p><p>L'éditeur a publié le correctif pour la vulnérabilité CVE-2021-22893, ainsi que les vulnérabilités CVE-2021-22894, CVE-2021-22899 et CVE-2021-22900 avec un score CVSSv3 respectivement de 9.9, 9.9 et 7.2.</p><p>Si des mesures de contournement …]]>
+</description>
+</item>
+<item>
+    <title>CERTFR-2021-ALE-008 : Multiples vulnérabilités dans Exim (05 mai 2021)</title>
+    <link>https://www.cert.ssi.gouv.fr/alerte/CERTFR-2021-ALE-008/</link>
+    <pubDate>Wed, 05 May 2021 12:42:16 +0000</pubDate>
+    <guid isPermaLink="true">https://www.cert.ssi.gouv.fr/alerte/CERTFR-2021-ALE-008/</guid>
+    <description>
+        <![CDATA[<p>Le 5 mai 2021, Qualys a publié un bulletin de sécurité contenant 21 vulnérabilités affectant le serveur mail Exim. Quatre de ces vulnérabilités permettent une élévation de privilège et trois une exécution de code arbitraire. Ces vulnérabilités affectent toutes les versions de Exim …]]>
+    </description>
+</item>
+<item>
+    <title>CERTFR-2021-ALE-009 : [MàJ] Vulnérabilité dans Microsoft Windows (12 mai 2021)</title>
+    <link>https://www.cert.ssi.gouv.fr/alerte/CERTFR-2021-ALE-009/</link>
+    <pubDate>Wed, 12 May 2021 09:44:55 +0000</pubDate>
+    <guid isPermaLink="true">https://www.cert.ssi.gouv.fr/alerte/CERTFR-2021-ALE-009/</guid>
+    <description>
+        <![CDATA[<p><strong>[version du 21 mai 2021]</strong></p><p>Le CERT-FR a connaissance de l'existence de codes d'attaques publics provoquant un déni de service sur l'équipement ciblé. Il est fortement recommandé de mettre à jour les postes de travail et les serveurs installés avec les versions du …]]>
+</description>
+</item>
+<item>
+    <title>CERTFR-2021-ALE-003 : [MàJ] Vulnérabilité dans VMware vCenter Server (25 février 2021)</title>
+    <link>https://www.cert.ssi.gouv.fr/alerte/CERTFR-2021-ALE-003/</link>
+    <pubDate>Thu, 25 Feb 2021 10:18:56 +0000</pubDate>
+    <guid isPermaLink="true">https://www.cert.ssi.gouv.fr/alerte/CERTFR-2021-ALE-003/</guid>
+    <description>
+        <![CDATA[<p><strong>[version du 26 février 2021]</strong></p><p>Le CERT-FR a connaissance d'<strong>attaques en cours</strong> ciblant des serveurs vCenter exposés sur Internet.<strong>Il est urgent</strong> de procéder soit à l'application du contournement pour désactiver le greffon vulnérable soit …]]>
+</description>
+</item>
+<item>
+    <title>CERTFR-2021-ALE-001 : |MàJ] Vulnérabilité dans SonicWall SMA100 (02 février 2021)</title>
+    <link>https://www.cert.ssi.gouv.fr/alerte/CERTFR-2021-ALE-001/</link>
+    <pubDate>Tue, 02 Feb 2021 13:30:19 +0000</pubDate>
+    <guid isPermaLink="true">https://www.cert.ssi.gouv.fr/alerte/CERTFR-2021-ALE-001/</guid>
+    <description>
+        <![CDATA[<p><strong>[Mise à jour du 30 avril 2021]</strong></p><p>Le 29 avril 2021, dans un billet de blogue (cf. section Documentation), FireEye fait état de l'exploitation de la vulnérabilité CVE-2021-20016 par un groupe criminel dans le but de déployer plusieurs rançongiciels à l'encontre de …]]>
+</description>
+</item>
+<item>
+    <title>CERTFR-2021-ALE-005 : Multiples vulnérabilités dans Microsoft DNS server (12 mars 2021)</title>
+    <link>https://www.cert.ssi.gouv.fr/alerte/CERTFR-2021-ALE-005/</link>
+    <pubDate>Fri, 12 Mar 2021 17:20:46 +0000</pubDate>
+    <guid isPermaLink="true">https://www.cert.ssi.gouv.fr/alerte/CERTFR-2021-ALE-005/</guid>
+    <description>
+        <![CDATA[<p>&nbsp;</p><h4>Contexte</h4><p>Sept vulnérabilités concernant le serveur DNS de Microsoft ont fait l’objet d’un correctif à l’occasion de la mise à jour mensuelle de mars 2021. Parmi ces vulnérabilités, deux permettent un déni de service alors que les cinq autres permettent une exécution de …]]>
+    </description>
+</item>
+<item>
+    <title>CERTFR-2021-ALE-006 : [MàJ] Vulnérabilité dans F5 BIG-IP (20 mars 2021)</title>
+    <link>https://www.cert.ssi.gouv.fr/alerte/CERTFR-2021-ALE-006/</link>
+    <pubDate>Sat, 20 Mar 2021 10:37:52 +0000</pubDate>
+    <guid isPermaLink="true">https://www.cert.ssi.gouv.fr/alerte/CERTFR-2021-ALE-006/</guid>
+    <description>
+        <![CDATA[<p><strong>[mise à jour du 22 mars 2021]</strong></p><p>Un nouveau vecteur d'attaque a été publié qui ne requiert plus d'exploiter une <em>SSRF</em> et de nouveaux codes d'attaques sont désormais disponibles. Toute requête<em>HTTP</em> de type<em>POST</em> reçue par l'<em>API REST iControl …]]>
+</description>
+</item>
+<item>
+    <title>CERTFR-2020-ALE-026 : [MaJ] Présence de code malveillant dans SolarWinds Orion (14 décembre 2020)</title>
+    <link>https://www.cert.ssi.gouv.fr/alerte/CERTFR-2020-ALE-026/</link>
+    <pubDate>Mon, 14 Dec 2020 14:23:52 +0000</pubDate>
+    <guid isPermaLink="true">https://www.cert.ssi.gouv.fr/alerte/CERTFR-2020-ALE-026/</guid>
+    <description>
+        <![CDATA[<div><strong>[Mise à jour du 28 décembre 2020]</strong></div><div>Le 27 décembre 2020, l'avis SolarWinds a été mis à jour pour apporter des précisions sur SUPERNOVA, un "code encoquillé" (<em>webshell</em>) déposé et exécuté<em>via</em> l'exploitation d'une vulnérabilité corrigée dans les …]]>
+</description>
+</item>
+</channel>
+</rss>
